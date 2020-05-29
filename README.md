@@ -35,6 +35,7 @@ Below, you can find the accuracy for each model, but you can find the remainder 
 
 **Text Classification**
 Scikit-learn Accuracy: 0.61725
+
 Keras Accuracy: 0.64225
 
 **Image Classification**
