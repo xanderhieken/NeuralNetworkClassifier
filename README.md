@@ -33,12 +33,12 @@ from keras.datasets import mnist
 ## Results
 Below, you can find the accuracy for each model, but you can find the remainder of the evaluation metrics in the Jupyter Notebook located in this project's [GitHub repository](https://github.com/xanderhieken/NeuralNetworkClassifier). 
 
-**Text Classification**
+#### Text Classification
 Scikit-learn Accuracy: 0.61725
 
 Keras Accuracy: 0.64225
 
-**Image Classification**
+#### Image Classification
 Keras Accuracy: 0.9855999946594238
 
 ## Author
